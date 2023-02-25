@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:Playfair Display;
+    font-size: 32px;
+}
+
+.top-container{
+    background-color: #FEFBE9;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.pos
+{
+
+    margin: 0 auto;
+}
+.cld
+{
+    position: relative;
+    top: 100px;
+    right: 400px;
+}
+.cloud2
+{
+    position: relative;
+    top: 200px;
+    left: 350px;
+}
+.second-text
+{
+    font-family: 'Crimson Pro', serif;
+}
+
+.font11
+{
+    font-size: 24px;
+    color: #C92C6D;
+}
